@@ -1,0 +1,230 @@
+C:\Users\TARASCOS\Desktop\Proyecto ONG\CodigoInterfaz\interfazModernaONG\interfazModernaONG\bin\Debug\interfazModernaONG.exe.config
+C:\Users\TARASCOS\Desktop\Proyecto ONG\CodigoInterfaz\interfazModernaONG\interfazModernaONG\bin\Debug\interfazModernaONG.exe
+C:\Users\TARASCOS\Desktop\Proyecto ONG\CodigoInterfaz\interfazModernaONG\interfazModernaONG\bin\Debug\interfazModernaONG.pdb
+C:\Users\TARASCOS\Desktop\Proyecto ONG\CodigoInterfaz\interfazModernaONG\interfazModernaONG\obj\Debug\interfazModernaONG.csprojAssemblyReference.cache
+C:\Users\TARASCOS\Desktop\Proyecto ONG\CodigoInterfaz\interfazModernaONG\interfazModernaONG\obj\Debug\interfazModernaONG.VentanaPrincipal.resources
+C:\Users\TARASCOS\Desktop\Proyecto ONG\CodigoInterfaz\interfazModernaONG\interfazModernaONG\obj\Debug\interfazModernaONG.Properties.Resources.resources
+C:\Users\TARASCOS\Desktop\Proyecto ONG\CodigoInterfaz\interfazModernaONG\interfazModernaONG\obj\Debug\interfazModernaONG.csproj.GenerateResource.cache
+C:\Users\TARASCOS\Desktop\Proyecto ONG\CodigoInterfaz\interfazModernaONG\interfazModernaONG\obj\Debug\interfazModernaONG.csproj.CoreCompileInputs.cache
+C:\Users\TARASCOS\Desktop\Proyecto ONG\CodigoInterfaz\interfazModernaONG\interfazModernaONG\obj\Debug\interfazModernaONG.exe
+C:\Users\TARASCOS\Desktop\Proyecto ONG\CodigoInterfaz\interfazModernaONG\interfazModernaONG\obj\Debug\interfazModernaONG.pdb
+C:\Users\TARASCOS\Desktop\Proyecto ONG\CodigoInterfaz\interfazModernaONG\interfazModernaONG\obj\Debug\interfazModernaONG.Form_Organigrama_DatosGenerales_Ver.resources
+C:\Users\TARASCOS\Desktop\Proyecto ONG\CodigoInterfaz\interfazModernaONG\interfazModernaONG\obj\Debug\interfazModernaONG.Form_Organigrama_DatosGenerales_Modificar.resources
+C:\Users\TARASCOS\Desktop\Proyecto ONG\CodigoInterfaz\interfazModernaONG\interfazModernaONG\obj\Debug\interfazModernaONG.Form_Organigrama_DatosGenerales_Informe.resources
+C:\Users\TARASCOS\Desktop\Proyecto ONG\CodigoInterfaz\interfazModernaONG\interfazModernaONG\obj\Debug\interfazModernaONG.Form_Organigrama_Personal_Ver.resources
+C:\Users\TARASCOS\Desktop\Proyecto ONG\CodigoInterfaz\interfazModernaONG\interfazModernaONG\obj\Debug\interfazModernaONG.Form_Organigrama_Personal_Alta.resources
+C:\Users\TARASCOS\Desktop\Proyecto ONG\CodigoInterfaz\interfazModernaONG\interfazModernaONG\obj\Debug\interfazModernaONG.Form_Organigrama_Personal_Baja.resources
+C:\Users\TARASCOS\Desktop\Proyecto ONG\CodigoInterfaz\interfazModernaONG\interfazModernaONG\obj\Debug\interfazModernaONG.Form_Organigrama_Personal_Modificar.resources
+C:\Users\TARASCOS\Desktop\Proyecto ONG\CodigoInterfaz\interfazModernaONG\interfazModernaONG\obj\Debug\interfazModernaONG.Form_Organigrama_Personal_Informe.resources
+C:\Users\TARASCOS\Desktop\Proyecto ONG\CodigoInterfaz\interfazModernaONG\interfazModernaONG\obj\Debug\interfazModernaONG.Form_Organigrama_Directorio_Ver.resources
+C:\Users\TARASCOS\Desktop\Proyecto ONG\CodigoInterfaz\interfazModernaONG\interfazModernaONG\obj\Debug\interfazModernaONG.Form_Organigrama_Directorio_Alta.resources
+C:\Users\TARASCOS\Desktop\Proyecto ONG\CodigoInterfaz\interfazModernaONG\interfazModernaONG\obj\Debug\interfazModernaONG.Form_Organigrama_Directorio_Baja.resources
+C:\Users\TARASCOS\Desktop\Proyecto ONG\CodigoInterfaz\interfazModernaONG\interfazModernaONG\obj\Debug\interfazModernaONG.Form_Organigrama_Directorio_Modificar.resources
+C:\Users\TARASCOS\Desktop\Proyecto ONG\CodigoInterfaz\interfazModernaONG\interfazModernaONG\obj\Debug\interfazModernaONG.Form_Organigrama_Directorio_Informe.resources
+C:\Users\TARASCOS\Desktop\Proyecto ONG\CodigoInterfaz\interfazModernaONG\interfazModernaONG\obj\Debug\interfazModernaONG.Form_Beneficiarios_Beneficiarios_Ver.resources
+C:\Users\TARASCOS\Desktop\Proyecto ONG\CodigoInterfaz\interfazModernaONG\interfazModernaONG\obj\Debug\interfazModernaONG.Form_Beneficiarios_Beneficiarios_Alta.resources
+C:\Users\TARASCOS\Desktop\Proyecto ONG\CodigoInterfaz\interfazModernaONG\interfazModernaONG\obj\Debug\interfazModernaONG.Form_Beneficiarios_Beneficiarios_Baja.resources
+C:\Users\TARASCOS\Desktop\Proyecto ONG\CodigoInterfaz\interfazModernaONG\interfazModernaONG\obj\Debug\interfazModernaONG.Form_Beneficiarios_Beneficiarios_Modificar.resources
+C:\Users\TARASCOS\Desktop\Proyecto ONG\CodigoInterfaz\interfazModernaONG\interfazModernaONG\obj\Debug\interfazModernaONG.Form_Beneficiarios_Beneficiarios_Informe.resources
+C:\Users\TARASCOS\Desktop\Proyecto ONG\CodigoInterfaz\interfazModernaONG\interfazModernaONG\obj\Debug\interfazModernaONG.Form_Servicios_Servicios_Ver.resources
+C:\Users\TARASCOS\Desktop\Proyecto ONG\CodigoInterfaz\interfazModernaONG\interfazModernaONG\obj\Debug\interfazModernaONG.Form_Servicios_Servicios_Agregar.resources
+C:\Users\TARASCOS\Desktop\Proyecto ONG\CodigoInterfaz\interfazModernaONG\interfazModernaONG\obj\Debug\interfazModernaONG.Form_Servicios_Servicios_Eliminar.resources
+C:\Users\TARASCOS\Desktop\Proyecto ONG\CodigoInterfaz\interfazModernaONG\interfazModernaONG\obj\Debug\interfazModernaONG.Form_Servicios_Servicios_Modificar.resources
+C:\Users\TARASCOS\Desktop\Proyecto ONG\CodigoInterfaz\interfazModernaONG\interfazModernaONG\obj\Debug\interfazModernaONG.Form_Servicios_Servicios_Informe.resources
+C:\Users\TARASCOS\Desktop\Proyecto ONG\CodigoInterfaz\interfazModernaONG\interfazModernaONG\obj\Debug\interfazModernaONG.Form_Finanzas_Ingresos_Ver.resources
+C:\Users\TARASCOS\Desktop\Proyecto ONG\CodigoInterfaz\interfazModernaONG\interfazModernaONG\obj\Debug\interfazModernaONG.Form_Finanzas_Ingresos_Agregar.resources
+C:\Users\TARASCOS\Desktop\Proyecto ONG\CodigoInterfaz\interfazModernaONG\interfazModernaONG\obj\Debug\interfazModernaONG.Form_Finanzas_Ingresos_Eliminar.resources
+C:\Users\TARASCOS\Desktop\Proyecto ONG\CodigoInterfaz\interfazModernaONG\interfazModernaONG\obj\Debug\interfazModernaONG.Form_Finanzas_Ingresos_Modificar.resources
+C:\Users\TARASCOS\Desktop\Proyecto ONG\CodigoInterfaz\interfazModernaONG\interfazModernaONG\obj\Debug\interfazModernaONG.Form_Finanzas_Ingresos_Informe.resources
+C:\Users\TARASCOS\Desktop\Proyecto ONG\CodigoInterfaz\interfazModernaONG\interfazModernaONG\obj\Debug\interfazModernaONG.Form_Finanzas_Egresos_Ver.resources
+C:\Users\TARASCOS\Desktop\Proyecto ONG\CodigoInterfaz\interfazModernaONG\interfazModernaONG\obj\Debug\interfazModernaONG.Form_Finanzas_Egresos_Agregar.resources
+C:\Users\TARASCOS\Desktop\Proyecto ONG\CodigoInterfaz\interfazModernaONG\interfazModernaONG\obj\Debug\interfazModernaONG.Form_Finanzas_Egresos_Eliminar.resources
+C:\Users\TARASCOS\Desktop\Proyecto ONG\CodigoInterfaz\interfazModernaONG\interfazModernaONG\obj\Debug\interfazModernaONG.Form_Finanzas_Egresos_Modificar.resources
+C:\Users\TARASCOS\Desktop\Proyecto ONG\CodigoInterfaz\interfazModernaONG\interfazModernaONG\obj\Debug\interfazModernaONG.Form_Finanzas_Egresos_Informe.resources
+C:\Users\Manue\Desktop\interfazModernaONG\interfazModernaONG\bin\Debug\interfazModernaONG.exe.config
+C:\Users\Manue\Desktop\interfazModernaONG\interfazModernaONG\bin\Debug\interfazModernaONG.exe
+C:\Users\Manue\Desktop\interfazModernaONG\interfazModernaONG\bin\Debug\interfazModernaONG.pdb
+C:\Users\Manue\Desktop\interfazModernaONG\interfazModernaONG\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\Manue\Desktop\interfazModernaONG\interfazModernaONG\bin\Debug\SpreadsheetLight.dll
+C:\Users\Manue\Desktop\interfazModernaONG\interfazModernaONG\bin\Debug\SpreadsheetLight.xml
+C:\Users\Manue\Desktop\interfazModernaONG\interfazModernaONG\obj\Debug\interfazModernaONG.csprojAssemblyReference.cache
+C:\Users\Manue\Desktop\interfazModernaONG\interfazModernaONG\obj\Debug\interfazModernaONG.Form_Beneficiarios_Beneficiarios_Alta.resources
+C:\Users\Manue\Desktop\interfazModernaONG\interfazModernaONG\obj\Debug\interfazModernaONG.Form_Beneficiarios_Beneficiarios_Baja.resources
+C:\Users\Manue\Desktop\interfazModernaONG\interfazModernaONG\obj\Debug\interfazModernaONG.Form_Beneficiarios_Beneficiarios_Informe.resources
+C:\Users\Manue\Desktop\interfazModernaONG\interfazModernaONG\obj\Debug\interfazModernaONG.Form_Beneficiarios_Beneficiarios_Modificar.resources
+C:\Users\Manue\Desktop\interfazModernaONG\interfazModernaONG\obj\Debug\interfazModernaONG.Form_Beneficiarios_Beneficiarios_Ver.resources
+C:\Users\Manue\Desktop\interfazModernaONG\interfazModernaONG\obj\Debug\interfazModernaONG.Form_Finanzas_Egresos_Agregar.resources
+C:\Users\Manue\Desktop\interfazModernaONG\interfazModernaONG\obj\Debug\interfazModernaONG.Form_Finanzas_Egresos_Eliminar.resources
+C:\Users\Manue\Desktop\interfazModernaONG\interfazModernaONG\obj\Debug\interfazModernaONG.Form_Finanzas_Egresos_Informe.resources
+C:\Users\Manue\Desktop\interfazModernaONG\interfazModernaONG\obj\Debug\interfazModernaONG.Form_Finanzas_Egresos_Modificar.resources
+C:\Users\Manue\Desktop\interfazModernaONG\interfazModernaONG\obj\Debug\interfazModernaONG.Form_Finanzas_Egresos_Ver.resources
+C:\Users\Manue\Desktop\interfazModernaONG\interfazModernaONG\obj\Debug\interfazModernaONG.Form_Finanzas_Ingresos_Agregar.resources
+C:\Users\Manue\Desktop\interfazModernaONG\interfazModernaONG\obj\Debug\interfazModernaONG.Form_Finanzas_Ingresos_Eliminar.resources
+C:\Users\Manue\Desktop\interfazModernaONG\interfazModernaONG\obj\Debug\interfazModernaONG.Form_Finanzas_Ingresos_Informe.resources
+C:\Users\Manue\Desktop\interfazModernaONG\interfazModernaONG\obj\Debug\interfazModernaONG.Form_Finanzas_Ingresos_Modificar.resources
+C:\Users\Manue\Desktop\interfazModernaONG\interfazModernaONG\obj\Debug\interfazModernaONG.Form_Finanzas_Ingresos_Ver.resources
+C:\Users\Manue\Desktop\interfazModernaONG\interfazModernaONG\obj\Debug\interfazModernaONG.Form_Organigrama_DatosGenerales_Informe.resources
+C:\Users\Manue\Desktop\interfazModernaONG\interfazModernaONG\obj\Debug\interfazModernaONG.Form_Organigrama_DatosGenerales_Modificar.resources
+C:\Users\Manue\Desktop\interfazModernaONG\interfazModernaONG\obj\Debug\interfazModernaONG.Form_Organigrama_DatosGenerales_Ver.resources
+C:\Users\Manue\Desktop\interfazModernaONG\interfazModernaONG\obj\Debug\interfazModernaONG.Form_Organigrama_Directorio_Alta.resources
+C:\Users\Manue\Desktop\interfazModernaONG\interfazModernaONG\obj\Debug\interfazModernaONG.Form_Organigrama_Directorio_Baja.resources
+C:\Users\Manue\Desktop\interfazModernaONG\interfazModernaONG\obj\Debug\interfazModernaONG.Form_Organigrama_Directorio_Informe.resources
+C:\Users\Manue\Desktop\interfazModernaONG\interfazModernaONG\obj\Debug\interfazModernaONG.Form_Organigrama_Directorio_Modificar.resources
+C:\Users\Manue\Desktop\interfazModernaONG\interfazModernaONG\obj\Debug\interfazModernaONG.Form_Organigrama_Directorio_Ver.resources
+C:\Users\Manue\Desktop\interfazModernaONG\interfazModernaONG\obj\Debug\interfazModernaONG.Form_Organigrama_Personal_Alta.resources
+C:\Users\Manue\Desktop\interfazModernaONG\interfazModernaONG\obj\Debug\interfazModernaONG.Form_Organigrama_Personal_Baja.resources
+C:\Users\Manue\Desktop\interfazModernaONG\interfazModernaONG\obj\Debug\interfazModernaONG.Form_Organigrama_Personal_Informe.resources
+C:\Users\Manue\Desktop\interfazModernaONG\interfazModernaONG\obj\Debug\interfazModernaONG.Form_Organigrama_Personal_Modificar.resources
+C:\Users\Manue\Desktop\interfazModernaONG\interfazModernaONG\obj\Debug\interfazModernaONG.Form_Organigrama_Personal_Ver.resources
+C:\Users\Manue\Desktop\interfazModernaONG\interfazModernaONG\obj\Debug\interfazModernaONG.Form_Servicios_Servicios_Agregar.resources
+C:\Users\Manue\Desktop\interfazModernaONG\interfazModernaONG\obj\Debug\interfazModernaONG.Form_Servicios_Servicios_Eliminar.resources
+C:\Users\Manue\Desktop\interfazModernaONG\interfazModernaONG\obj\Debug\interfazModernaONG.Form_Servicios_Servicios_Informe.resources
+C:\Users\Manue\Desktop\interfazModernaONG\interfazModernaONG\obj\Debug\interfazModernaONG.Form_Servicios_Servicios_Modificar.resources
+C:\Users\Manue\Desktop\interfazModernaONG\interfazModernaONG\obj\Debug\interfazModernaONG.Form_Servicios_Servicios_Ver.resources
+C:\Users\Manue\Desktop\interfazModernaONG\interfazModernaONG\obj\Debug\interfazModernaONG.VentanaPrincipal.resources
+C:\Users\Manue\Desktop\interfazModernaONG\interfazModernaONG\obj\Debug\interfazModernaONG.Properties.Resources.resources
+C:\Users\Manue\Desktop\interfazModernaONG\interfazModernaONG\obj\Debug\interfazModernaONG.csproj.GenerateResource.cache
+C:\Users\Manue\Desktop\interfazModernaONG\interfazModernaONG\obj\Debug\interfazModernaONG.csproj.CoreCompileInputs.cache
+C:\Users\Manue\Desktop\interfazModernaONG\interfazModernaONG\obj\Debug\interfazModernaONG.csproj.CopyComplete
+C:\Users\Manue\Desktop\interfazModernaONG\interfazModernaONG\obj\Debug\interfazModernaONG.exe
+C:\Users\Manue\Desktop\interfazModernaONG\interfazModernaONG\obj\Debug\interfazModernaONG.pdb
+C:\Users\TARASCOS\Desktop\Proyecto ONG\CodigoInterfaz\interfazModernaONG_V1.02\interfazModernaONG\bin\Debug\interfazModernaONG.exe.config
+C:\Users\TARASCOS\Desktop\Proyecto ONG\CodigoInterfaz\interfazModernaONG_V1.02\interfazModernaONG\bin\Debug\interfazModernaONG.exe
+C:\Users\TARASCOS\Desktop\Proyecto ONG\CodigoInterfaz\interfazModernaONG_V1.02\interfazModernaONG\bin\Debug\interfazModernaONG.pdb
+C:\Users\TARASCOS\Desktop\Proyecto ONG\CodigoInterfaz\interfazModernaONG_V1.02\interfazModernaONG\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\TARASCOS\Desktop\Proyecto ONG\CodigoInterfaz\interfazModernaONG_V1.02\interfazModernaONG\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\TARASCOS\Desktop\Proyecto ONG\CodigoInterfaz\interfazModernaONG_V1.02\interfazModernaONG\bin\Debug\Google.Protobuf.dll
+C:\Users\TARASCOS\Desktop\Proyecto ONG\CodigoInterfaz\interfazModernaONG_V1.02\interfazModernaONG\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\TARASCOS\Desktop\Proyecto ONG\CodigoInterfaz\interfazModernaONG_V1.02\interfazModernaONG\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\TARASCOS\Desktop\Proyecto ONG\CodigoInterfaz\interfazModernaONG_V1.02\interfazModernaONG\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\TARASCOS\Desktop\Proyecto ONG\CodigoInterfaz\interfazModernaONG_V1.02\interfazModernaONG\bin\Debug\MySql.Data.dll
+C:\Users\TARASCOS\Desktop\Proyecto ONG\CodigoInterfaz\interfazModernaONG_V1.02\interfazModernaONG\bin\Debug\Renci.SshNet.dll
+C:\Users\TARASCOS\Desktop\Proyecto ONG\CodigoInterfaz\interfazModernaONG_V1.02\interfazModernaONG\bin\Debug\SpreadsheetLight.dll
+C:\Users\TARASCOS\Desktop\Proyecto ONG\CodigoInterfaz\interfazModernaONG_V1.02\interfazModernaONG\bin\Debug\System.Buffers.dll
+C:\Users\TARASCOS\Desktop\Proyecto ONG\CodigoInterfaz\interfazModernaONG_V1.02\interfazModernaONG\bin\Debug\System.Memory.dll
+C:\Users\TARASCOS\Desktop\Proyecto ONG\CodigoInterfaz\interfazModernaONG_V1.02\interfazModernaONG\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\TARASCOS\Desktop\Proyecto ONG\CodigoInterfaz\interfazModernaONG_V1.02\interfazModernaONG\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\TARASCOS\Desktop\Proyecto ONG\CodigoInterfaz\interfazModernaONG_V1.02\interfazModernaONG\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\TARASCOS\Desktop\Proyecto ONG\CodigoInterfaz\interfazModernaONG_V1.02\interfazModernaONG\bin\Debug\Zstandard.Net.dll
+C:\Users\TARASCOS\Desktop\Proyecto ONG\CodigoInterfaz\interfazModernaONG_V1.02\interfazModernaONG\bin\Debug\Google.Protobuf.xml
+C:\Users\TARASCOS\Desktop\Proyecto ONG\CodigoInterfaz\interfazModernaONG_V1.02\interfazModernaONG\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\TARASCOS\Desktop\Proyecto ONG\CodigoInterfaz\interfazModernaONG_V1.02\interfazModernaONG\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\TARASCOS\Desktop\Proyecto ONG\CodigoInterfaz\interfazModernaONG_V1.02\interfazModernaONG\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\TARASCOS\Desktop\Proyecto ONG\CodigoInterfaz\interfazModernaONG_V1.02\interfazModernaONG\bin\Debug\MySql.Data.xml
+C:\Users\TARASCOS\Desktop\Proyecto ONG\CodigoInterfaz\interfazModernaONG_V1.02\interfazModernaONG\bin\Debug\Renci.SshNet.xml
+C:\Users\TARASCOS\Desktop\Proyecto ONG\CodigoInterfaz\interfazModernaONG_V1.02\interfazModernaONG\bin\Debug\SpreadsheetLight.xml
+C:\Users\TARASCOS\Desktop\Proyecto ONG\CodigoInterfaz\interfazModernaONG_V1.02\interfazModernaONG\bin\Debug\System.Buffers.xml
+C:\Users\TARASCOS\Desktop\Proyecto ONG\CodigoInterfaz\interfazModernaONG_V1.02\interfazModernaONG\bin\Debug\System.Memory.xml
+C:\Users\TARASCOS\Desktop\Proyecto ONG\CodigoInterfaz\interfazModernaONG_V1.02\interfazModernaONG\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\TARASCOS\Desktop\Proyecto ONG\CodigoInterfaz\interfazModernaONG_V1.02\interfazModernaONG\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\TARASCOS\Desktop\Proyecto ONG\CodigoInterfaz\interfazModernaONG_V1.02\interfazModernaONG\obj\Debug\interfazModernaONG.csprojAssemblyReference.cache
+C:\Users\TARASCOS\Desktop\Proyecto ONG\CodigoInterfaz\interfazModernaONG_V1.02\interfazModernaONG\obj\Debug\interfazModernaONG.Form_Beneficiarios_Beneficiarios_Alta.resources
+C:\Users\TARASCOS\Desktop\Proyecto ONG\CodigoInterfaz\interfazModernaONG_V1.02\interfazModernaONG\obj\Debug\interfazModernaONG.Form_Beneficiarios_Beneficiarios_Baja.resources
+C:\Users\TARASCOS\Desktop\Proyecto ONG\CodigoInterfaz\interfazModernaONG_V1.02\interfazModernaONG\obj\Debug\interfazModernaONG.Form_Beneficiarios_Beneficiarios_Informe.resources
+C:\Users\TARASCOS\Desktop\Proyecto ONG\CodigoInterfaz\interfazModernaONG_V1.02\interfazModernaONG\obj\Debug\interfazModernaONG.Form_Beneficiarios_Beneficiarios_Modificar.resources
+C:\Users\TARASCOS\Desktop\Proyecto ONG\CodigoInterfaz\interfazModernaONG_V1.02\interfazModernaONG\obj\Debug\interfazModernaONG.Form_Beneficiarios_Beneficiarios_Ver.resources
+C:\Users\TARASCOS\Desktop\Proyecto ONG\CodigoInterfaz\interfazModernaONG_V1.02\interfazModernaONG\obj\Debug\interfazModernaONG.Form_Finanzas_Egresos_Agregar.resources
+C:\Users\TARASCOS\Desktop\Proyecto ONG\CodigoInterfaz\interfazModernaONG_V1.02\interfazModernaONG\obj\Debug\interfazModernaONG.Form_Finanzas_Egresos_Eliminar.resources
+C:\Users\TARASCOS\Desktop\Proyecto ONG\CodigoInterfaz\interfazModernaONG_V1.02\interfazModernaONG\obj\Debug\interfazModernaONG.Form_Finanzas_Egresos_Informe.resources
+C:\Users\TARASCOS\Desktop\Proyecto ONG\CodigoInterfaz\interfazModernaONG_V1.02\interfazModernaONG\obj\Debug\interfazModernaONG.Form_Finanzas_Egresos_Modificar.resources
+C:\Users\TARASCOS\Desktop\Proyecto ONG\CodigoInterfaz\interfazModernaONG_V1.02\interfazModernaONG\obj\Debug\interfazModernaONG.Form_Finanzas_Egresos_Ver.resources
+C:\Users\TARASCOS\Desktop\Proyecto ONG\CodigoInterfaz\interfazModernaONG_V1.02\interfazModernaONG\obj\Debug\interfazModernaONG.Form_Finanzas_Ingresos_Agregar.resources
+C:\Users\TARASCOS\Desktop\Proyecto ONG\CodigoInterfaz\interfazModernaONG_V1.02\interfazModernaONG\obj\Debug\interfazModernaONG.Form_Finanzas_Ingresos_Eliminar.resources
+C:\Users\TARASCOS\Desktop\Proyecto ONG\CodigoInterfaz\interfazModernaONG_V1.02\interfazModernaONG\obj\Debug\interfazModernaONG.Form_Finanzas_Ingresos_Informe.resources
+C:\Users\TARASCOS\Desktop\Proyecto ONG\CodigoInterfaz\interfazModernaONG_V1.02\interfazModernaONG\obj\Debug\interfazModernaONG.Form_Finanzas_Ingresos_Modificar.resources
+C:\Users\TARASCOS\Desktop\Proyecto ONG\CodigoInterfaz\interfazModernaONG_V1.02\interfazModernaONG\obj\Debug\interfazModernaONG.Form_Finanzas_Ingresos_Ver.resources
+C:\Users\TARASCOS\Desktop\Proyecto ONG\CodigoInterfaz\interfazModernaONG_V1.02\interfazModernaONG\obj\Debug\interfazModernaONG.Form_Organigrama_DatosGenerales_Informe.resources
+C:\Users\TARASCOS\Desktop\Proyecto ONG\CodigoInterfaz\interfazModernaONG_V1.02\interfazModernaONG\obj\Debug\interfazModernaONG.Form_Organigrama_DatosGenerales_Modificar.resources
+C:\Users\TARASCOS\Desktop\Proyecto ONG\CodigoInterfaz\interfazModernaONG_V1.02\interfazModernaONG\obj\Debug\interfazModernaONG.Form_Organigrama_DatosGenerales_Ver.resources
+C:\Users\TARASCOS\Desktop\Proyecto ONG\CodigoInterfaz\interfazModernaONG_V1.02\interfazModernaONG\obj\Debug\interfazModernaONG.Form_Organigrama_Directorio_Alta.resources
+C:\Users\TARASCOS\Desktop\Proyecto ONG\CodigoInterfaz\interfazModernaONG_V1.02\interfazModernaONG\obj\Debug\interfazModernaONG.Form_Organigrama_Directorio_Baja.resources
+C:\Users\TARASCOS\Desktop\Proyecto ONG\CodigoInterfaz\interfazModernaONG_V1.02\interfazModernaONG\obj\Debug\interfazModernaONG.Form_Organigrama_Directorio_Informe.resources
+C:\Users\TARASCOS\Desktop\Proyecto ONG\CodigoInterfaz\interfazModernaONG_V1.02\interfazModernaONG\obj\Debug\interfazModernaONG.Form_Organigrama_Directorio_Modificar.resources
+C:\Users\TARASCOS\Desktop\Proyecto ONG\CodigoInterfaz\interfazModernaONG_V1.02\interfazModernaONG\obj\Debug\interfazModernaONG.Form_Organigrama_Directorio_Ver.resources
+C:\Users\TARASCOS\Desktop\Proyecto ONG\CodigoInterfaz\interfazModernaONG_V1.02\interfazModernaONG\obj\Debug\interfazModernaONG.Form_Organigrama_Personal_Alta.resources
+C:\Users\TARASCOS\Desktop\Proyecto ONG\CodigoInterfaz\interfazModernaONG_V1.02\interfazModernaONG\obj\Debug\interfazModernaONG.Form_Organigrama_Personal_Baja.resources
+C:\Users\TARASCOS\Desktop\Proyecto ONG\CodigoInterfaz\interfazModernaONG_V1.02\interfazModernaONG\obj\Debug\interfazModernaONG.Form_Organigrama_Personal_Informe.resources
+C:\Users\TARASCOS\Desktop\Proyecto ONG\CodigoInterfaz\interfazModernaONG_V1.02\interfazModernaONG\obj\Debug\interfazModernaONG.Form_Organigrama_Personal_Modificar.resources
+C:\Users\TARASCOS\Desktop\Proyecto ONG\CodigoInterfaz\interfazModernaONG_V1.02\interfazModernaONG\obj\Debug\interfazModernaONG.Form_Organigrama_Personal_Ver.resources
+C:\Users\TARASCOS\Desktop\Proyecto ONG\CodigoInterfaz\interfazModernaONG_V1.02\interfazModernaONG\obj\Debug\interfazModernaONG.Form_Servicios_Servicios_Agregar.resources
+C:\Users\TARASCOS\Desktop\Proyecto ONG\CodigoInterfaz\interfazModernaONG_V1.02\interfazModernaONG\obj\Debug\interfazModernaONG.Form_Servicios_Servicios_Eliminar.resources
+C:\Users\TARASCOS\Desktop\Proyecto ONG\CodigoInterfaz\interfazModernaONG_V1.02\interfazModernaONG\obj\Debug\interfazModernaONG.Form_Servicios_Servicios_Informe.resources
+C:\Users\TARASCOS\Desktop\Proyecto ONG\CodigoInterfaz\interfazModernaONG_V1.02\interfazModernaONG\obj\Debug\interfazModernaONG.Form_Servicios_Servicios_Modificar.resources
+C:\Users\TARASCOS\Desktop\Proyecto ONG\CodigoInterfaz\interfazModernaONG_V1.02\interfazModernaONG\obj\Debug\interfazModernaONG.Form_Servicios_Servicios_Ver.resources
+C:\Users\TARASCOS\Desktop\Proyecto ONG\CodigoInterfaz\interfazModernaONG_V1.02\interfazModernaONG\obj\Debug\interfazModernaONG.VentanaPrincipal.resources
+C:\Users\TARASCOS\Desktop\Proyecto ONG\CodigoInterfaz\interfazModernaONG_V1.02\interfazModernaONG\obj\Debug\interfazModernaONG.Properties.Resources.resources
+C:\Users\TARASCOS\Desktop\Proyecto ONG\CodigoInterfaz\interfazModernaONG_V1.02\interfazModernaONG\obj\Debug\interfazModernaONG.csproj.GenerateResource.cache
+C:\Users\TARASCOS\Desktop\Proyecto ONG\CodigoInterfaz\interfazModernaONG_V1.02\interfazModernaONG\obj\Debug\interfazModernaONG.csproj.CoreCompileInputs.cache
+C:\Users\TARASCOS\Desktop\Proyecto ONG\CodigoInterfaz\interfazModernaONG_V1.02\interfazModernaONG\obj\Debug\interfazModernaONG.csproj.CopyComplete
+C:\Users\TARASCOS\Desktop\Proyecto ONG\CodigoInterfaz\interfazModernaONG_V1.02\interfazModernaONG\obj\Debug\interfazModernaONG.exe
+C:\Users\TARASCOS\Desktop\Proyecto ONG\CodigoInterfaz\interfazModernaONG_V1.02\interfazModernaONG\obj\Debug\interfazModernaONG.pdb
+C:\Users\Manue\Desktop\Ong local\ONG\bin\Debug\interfazModernaONG.exe.config
+C:\Users\Manue\Desktop\Ong local\ONG\bin\Debug\interfazModernaONG.exe
+C:\Users\Manue\Desktop\Ong local\ONG\bin\Debug\interfazModernaONG.pdb
+C:\Users\Manue\Desktop\Ong local\ONG\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Manue\Desktop\Ong local\ONG\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\Manue\Desktop\Ong local\ONG\bin\Debug\Google.Protobuf.dll
+C:\Users\Manue\Desktop\Ong local\ONG\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Manue\Desktop\Ong local\ONG\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Manue\Desktop\Ong local\ONG\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Manue\Desktop\Ong local\ONG\bin\Debug\MySql.Data.dll
+C:\Users\Manue\Desktop\Ong local\ONG\bin\Debug\Renci.SshNet.dll
+C:\Users\Manue\Desktop\Ong local\ONG\bin\Debug\SpreadsheetLight.dll
+C:\Users\Manue\Desktop\Ong local\ONG\bin\Debug\System.Buffers.dll
+C:\Users\Manue\Desktop\Ong local\ONG\bin\Debug\System.Memory.dll
+C:\Users\Manue\Desktop\Ong local\ONG\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Manue\Desktop\Ong local\ONG\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Manue\Desktop\Ong local\ONG\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Manue\Desktop\Ong local\ONG\bin\Debug\Zstandard.Net.dll
+C:\Users\Manue\Desktop\Ong local\ONG\bin\Debug\Google.Protobuf.xml
+C:\Users\Manue\Desktop\Ong local\ONG\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Manue\Desktop\Ong local\ONG\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Manue\Desktop\Ong local\ONG\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Manue\Desktop\Ong local\ONG\bin\Debug\MySql.Data.xml
+C:\Users\Manue\Desktop\Ong local\ONG\bin\Debug\Renci.SshNet.xml
+C:\Users\Manue\Desktop\Ong local\ONG\bin\Debug\SpreadsheetLight.xml
+C:\Users\Manue\Desktop\Ong local\ONG\bin\Debug\System.Buffers.xml
+C:\Users\Manue\Desktop\Ong local\ONG\bin\Debug\System.Memory.xml
+C:\Users\Manue\Desktop\Ong local\ONG\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Manue\Desktop\Ong local\ONG\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Manue\Desktop\Ong local\ONG\obj\Debug\interfazModernaONG.csprojAssemblyReference.cache
+C:\Users\Manue\Desktop\Ong local\ONG\obj\Debug\interfazModernaONG.Form_Beneficiarios_Beneficiarios_Alta.resources
+C:\Users\Manue\Desktop\Ong local\ONG\obj\Debug\interfazModernaONG.Form_Beneficiarios_Beneficiarios_Baja.resources
+C:\Users\Manue\Desktop\Ong local\ONG\obj\Debug\interfazModernaONG.Form_Beneficiarios_Beneficiarios_Informe.resources
+C:\Users\Manue\Desktop\Ong local\ONG\obj\Debug\interfazModernaONG.Form_Beneficiarios_Beneficiarios_Modificar.resources
+C:\Users\Manue\Desktop\Ong local\ONG\obj\Debug\interfazModernaONG.Form_Beneficiarios_Beneficiarios_Ver.resources
+C:\Users\Manue\Desktop\Ong local\ONG\obj\Debug\interfazModernaONG.Form_Finanzas_Egresos_Agregar.resources
+C:\Users\Manue\Desktop\Ong local\ONG\obj\Debug\interfazModernaONG.Form_Finanzas_Egresos_Eliminar.resources
+C:\Users\Manue\Desktop\Ong local\ONG\obj\Debug\interfazModernaONG.Form_Finanzas_Egresos_Informe.resources
+C:\Users\Manue\Desktop\Ong local\ONG\obj\Debug\interfazModernaONG.Form_Finanzas_Egresos_Modificar.resources
+C:\Users\Manue\Desktop\Ong local\ONG\obj\Debug\interfazModernaONG.Form_Finanzas_Egresos_Ver.resources
+C:\Users\Manue\Desktop\Ong local\ONG\obj\Debug\interfazModernaONG.Form_Finanzas_Ingresos_Agregar.resources
+C:\Users\Manue\Desktop\Ong local\ONG\obj\Debug\interfazModernaONG.Form_Finanzas_Ingresos_Eliminar.resources
+C:\Users\Manue\Desktop\Ong local\ONG\obj\Debug\interfazModernaONG.Form_Finanzas_Ingresos_Informe.resources
+C:\Users\Manue\Desktop\Ong local\ONG\obj\Debug\interfazModernaONG.Form_Finanzas_Ingresos_Modificar.resources
+C:\Users\Manue\Desktop\Ong local\ONG\obj\Debug\interfazModernaONG.Form_Finanzas_Ingresos_Ver.resources
+C:\Users\Manue\Desktop\Ong local\ONG\obj\Debug\interfazModernaONG.Form_Organigrama_DatosGenerales_Informe.resources
+C:\Users\Manue\Desktop\Ong local\ONG\obj\Debug\interfazModernaONG.Form_Organigrama_DatosGenerales_Modificar.resources
+C:\Users\Manue\Desktop\Ong local\ONG\obj\Debug\interfazModernaONG.Form_Organigrama_DatosGenerales_Ver.resources
+C:\Users\Manue\Desktop\Ong local\ONG\obj\Debug\interfazModernaONG.Form_Organigrama_Directorio_Alta.resources
+C:\Users\Manue\Desktop\Ong local\ONG\obj\Debug\interfazModernaONG.Form_Organigrama_Directorio_Baja.resources
+C:\Users\Manue\Desktop\Ong local\ONG\obj\Debug\interfazModernaONG.Form_Organigrama_Directorio_Informe.resources
+C:\Users\Manue\Desktop\Ong local\ONG\obj\Debug\interfazModernaONG.Form_Organigrama_Directorio_Modificar.resources
+C:\Users\Manue\Desktop\Ong local\ONG\obj\Debug\interfazModernaONG.Form_Organigrama_Directorio_Ver.resources
+C:\Users\Manue\Desktop\Ong local\ONG\obj\Debug\interfazModernaONG.Form_Organigrama_Personal_Alta.resources
+C:\Users\Manue\Desktop\Ong local\ONG\obj\Debug\interfazModernaONG.Form_Organigrama_Personal_Baja.resources
+C:\Users\Manue\Desktop\Ong local\ONG\obj\Debug\interfazModernaONG.Form_Organigrama_Personal_Informe.resources
+C:\Users\Manue\Desktop\Ong local\ONG\obj\Debug\interfazModernaONG.Form_Organigrama_Personal_Modificar.resources
+C:\Users\Manue\Desktop\Ong local\ONG\obj\Debug\interfazModernaONG.Form_Organigrama_Personal_Ver.resources
+C:\Users\Manue\Desktop\Ong local\ONG\obj\Debug\interfazModernaONG.Form_Servicios_Servicios_Agregar.resources
+C:\Users\Manue\Desktop\Ong local\ONG\obj\Debug\interfazModernaONG.Form_Servicios_Servicios_Eliminar.resources
+C:\Users\Manue\Desktop\Ong local\ONG\obj\Debug\interfazModernaONG.Form_Servicios_Servicios_Informe.resources
+C:\Users\Manue\Desktop\Ong local\ONG\obj\Debug\interfazModernaONG.Form_Servicios_Servicios_Modificar.resources
+C:\Users\Manue\Desktop\Ong local\ONG\obj\Debug\interfazModernaONG.Form_Servicios_Servicios_Ver.resources
+C:\Users\Manue\Desktop\Ong local\ONG\obj\Debug\interfazModernaONG.VentanaPrincipal.resources
+C:\Users\Manue\Desktop\Ong local\ONG\obj\Debug\interfazModernaONG.Properties.Resources.resources
+C:\Users\Manue\Desktop\Ong local\ONG\obj\Debug\interfazModernaONG.csproj.GenerateResource.cache
+C:\Users\Manue\Desktop\Ong local\ONG\obj\Debug\interfazModernaONG.csproj.CoreCompileInputs.cache
+C:\Users\Manue\Desktop\Ong local\ONG\obj\Debug\interfazModernaONG.csproj.CopyComplete
+C:\Users\Manue\Desktop\Ong local\ONG\obj\Debug\interfazModernaONG.exe
+C:\Users\Manue\Desktop\Ong local\ONG\obj\Debug\interfazModernaONG.pdb
